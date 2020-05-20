@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Maroon Labs                             
-your_link                                 :                    
+your_link                                 : https://play.google.com/store/apps/developer?id=Maroon+Labs&hl=en_IN                   
 your_city                                 :                              
 email_address                             : autoswiperight@gmail.com
 facebook_username                         :                                           
@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Swipe Right/Left
     description                           : Like left or like right, your choice.
-    fontawesome_icon_name                 : arrows-h
+    fontawesome_icon_name                 : expand
     
   - title                                 : Fast
     description                           : Adjust the swipe speed as per your need.
@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Date Anyone
     description                           : Swipe profiles in other countries through the Mock Location
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : globe
   
   - title                                 : Stay Protected
     description                           : Limits on swipe so that you don't get banned on dating apps
@@ -65,7 +65,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/header1.png                    # Replace with alternative image path or image URL.
+cover_image                               : /assets/header1.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
