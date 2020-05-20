@@ -1,7 +1,7 @@
 # AutoLiker for Dating Apps
 **Autoswipe Right on Dating Apps like Tinder, Bumble, Tantan & OkCupid**
 
-![](app.gif)
+<img src="app.gif" width="128" height="277"/>
 
 Autoliker app helps people with problems in swiping and liking on Android apps. Autoliker is the perfect app to automatically like or automatically swipe right for you. It increases the productivity of your life. If you think you are spending too much time swiping profiles on tinder, Autoliker app is problem solver for you.
 
