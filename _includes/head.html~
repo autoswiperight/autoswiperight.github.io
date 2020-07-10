@@ -20,7 +20,7 @@
 
 	<title class="pageTitle">Autoliker & Autoswipe Right for Tinder</title>
 	<meta name="description" content="{{ site.app_description }}">
-	 <meta name="keywords" content="autoliker, tinder, bumble, okcupid, tantan, autoclick, autoswipe, autolike, like, swipe">
+	<meta name="keywords" content="autoliker, tinder, bumble, okcupid, tantan, autoclick, autoswipe, autolike, like, swipe">
 
 	<link rel="shortcut icon" href="{{ site.app_icon }}">
 
