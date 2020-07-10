@@ -1,13 +1,26 @@
 <head>
 	<meta name="google-site-verification" content="Kz6jSxdJTEiE00IC3ROcRjky7WJbatD1gLvSjwLvQOI" />
         <meta name="msvalidate.01" content="F29E79AB112B1EA8E338F9893D04DC2E" />
+	<meta name="yandex-verification" content="011fafe9a9274473" />
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172369295-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-172369295-1');
+	</script>
+
 	<base target="_blank">
 
-	<title class="pageTitle">{{ site.page_title }}</title>
+	<title class="pageTitle">Autoliker & Autoswipe Right for Tinder</title>
 	<meta name="description" content="{{ site.app_description }}">
+	 <meta name="keywords" content="autoliker, tinder, bumble, okcupid, tantan, autoclick, autoswipe, autolike, like, swipe">
 
 	<link rel="shortcut icon" href="{{ site.app_icon }}">
 
