@@ -8,7 +8,7 @@
 \f0\fs24 \cf0 ---\
 layout: page\
 title: Contact Us\
-include_in_header: true\
+include_in_header: false\
 ---\
 \
 **Last updated**  \
